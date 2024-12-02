@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Journey Optimizer B2B Edition]"
+title: '[!DNL Journey Optimizer B2B Edition]'
 description: 구매 그룹의 구성 요소와 계정 여정을 빌드하는 기본 사항에 대해 알아봅니다.
 role: Admin, User
 level: Beginner, Intermediate, Experienced
