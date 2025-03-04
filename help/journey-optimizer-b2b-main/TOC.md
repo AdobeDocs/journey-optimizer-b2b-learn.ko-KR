@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Journey Optimizer B2B Edition] 튜토리얼'
 breadcrumb-title: '[!DNL Journey Optimizer B2B Edition] 튜토리얼'
 user-guide-description: ' [!DNL Journey Optimizer B2B Edition]을(를) 최대한 활용하는 방법을 알아봅니다. 기본 제공 생성형 AI와 업계 최고 수준의 자동화를 활용해 계정 및 구매 그룹 여정을 조율하여 특정 서비스에 대한 수요를 극대화할 수 있습니다.'
-source-git-commit: 04c5bea8e5dfd7ed3af5f93dd2065b59222c0df7
+source-git-commit: dafc46340bb566560c9f3f4db5a9225793c2de62
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 40%
+source-wordcount: '72'
+ht-degree: 43%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 40%
       + [계정 분할 여정](/help/account-journeys/journey-nodes/split-account-journey.md)
 + 구매 그룹 {#buying-groups}
    + [구매 그룹 개요](/help/buying-groups/buying-groups-overview.md)
+   + [구매 그룹 단계](/help/buying-groups/buying-group-stages.md)
    + [구매 그룹 만들기](/help/buying-groups/create-a-buying-group.md)
    + [역할 템플릿](/help/buying-groups/role-templates.md)
    + [솔루션 관심도](/help/buying-groups/solution-interest.md)
