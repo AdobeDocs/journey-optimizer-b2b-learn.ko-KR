@@ -20,4 +20,4 @@ ht-degree: 5%
 
 구매 그룹 솔루션 관심사 및 구매 그룹을 만들 때 이를 구성/사용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433080/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450120/?learn=on&captions=kor)

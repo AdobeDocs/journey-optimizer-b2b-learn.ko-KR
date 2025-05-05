@@ -20,4 +20,4 @@ ht-degree: 0%
 
 계정 대상자, 역할 템플릿 및 솔루션 관심사를 사용하여 구매 그룹을 만드는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433081/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451768/?learn=on&captions=kor)

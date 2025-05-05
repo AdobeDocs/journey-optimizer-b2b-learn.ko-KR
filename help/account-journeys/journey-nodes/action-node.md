@@ -20,4 +20,4 @@ ht-degree: 0%
 
 계정 여정을 만들 때 작업 노드와 이를 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443252/?learn=on&enablevpops&captions=kor)

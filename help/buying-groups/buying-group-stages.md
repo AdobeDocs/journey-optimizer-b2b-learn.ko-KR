@@ -22,4 +22,4 @@ ht-degree: 4%
 
 이 기능을 사용하면 단일 단계 모델 내에서 여러 구매 그룹 라이프사이클 단계를 만들고 전환 규칙을 지정할 수 있습니다. 이러한 규칙을 설정하여 구매 그룹이 한 단계에서 다른 단계로 이동할 수 있는 방법을 완벽하게 제어할 수 있습니다. 그런 다음 이러한 기능을 하나의 강력한 흐름으로 결합하여 여정 내에서 스테이징 전환을 자동화할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448634/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448701/?learn=on&enablevpops&captions=kor)

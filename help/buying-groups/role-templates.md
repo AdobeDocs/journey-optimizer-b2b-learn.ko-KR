@@ -20,4 +20,4 @@ ht-degree: 0%
 
 구매 그룹 역할 템플릿과 구매 그룹을 만들 때 이를 구성/사용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453308/?learn=on&captions=kor)

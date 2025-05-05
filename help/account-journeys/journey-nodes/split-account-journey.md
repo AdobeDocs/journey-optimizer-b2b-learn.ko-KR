@@ -20,4 +20,4 @@ ht-degree: 0%
 
 계정 여정을 만들 때 분할/병합 경로 노드 및 이를 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443263/?learn=on&enablevpops&captions=kor)

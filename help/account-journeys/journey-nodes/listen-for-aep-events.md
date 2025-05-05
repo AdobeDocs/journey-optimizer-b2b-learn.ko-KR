@@ -24,4 +24,4 @@ AJO B2B에서 AEP 이벤트를 수신하면 계정 여정에서 경험 이벤트
 
 * 계정 여정에서 AEP 이벤트 사용
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448690/?learn=on&enablevpops&captions=kor)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 계정 대상, 작업 노드, 수신 노드 및 경로 분할 노드를 사용하여 계정 여정을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443226/?learn=on&enablevpops&captions=kor)

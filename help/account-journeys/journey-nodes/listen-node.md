@@ -20,4 +20,4 @@ ht-degree: 0%
 
 계정 여정을 만들 때 수신 노드 및 수신 노드를 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443241/?learn=on&enablevpops&captions=kor)
