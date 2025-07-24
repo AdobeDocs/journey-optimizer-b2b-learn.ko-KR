@@ -30,4 +30,4 @@ ht-degree: 0%
 
 이 비디오에서는 여정을 사용하여 사람들을 외부 대상으로 이동한 다음 AEP 대상 카탈로그에서 지원되는 유료 미디어 대상으로 푸시할 수 있는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448649/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448679/?learn=on&enablevpops&captions=kor)
