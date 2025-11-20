@@ -20,4 +20,4 @@ ht-degree: 100%
 
 구매 그룹에 대한 모든 정보와 활용 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452942/?captions=kor&learn=on)
