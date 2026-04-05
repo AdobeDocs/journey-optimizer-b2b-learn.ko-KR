@@ -20,4 +20,4 @@ ht-degree: 72%
 
 Journey Optimizer B2B edition에서 Account Qualification Agent을 사용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475827/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475846/?captions=kor&learn=on&enablevpops)
