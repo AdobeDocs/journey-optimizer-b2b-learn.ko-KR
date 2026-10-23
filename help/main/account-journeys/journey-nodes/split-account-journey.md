@@ -34,4 +34,4 @@ ht-degree: 5%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
 
-자세한 내용은 사용 안내서에서 _[경로 분할 및 병합](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_&#x200B;을(를) 참조하십시오.
+자세한 내용은 사용 안내서에서 _[경로 분할 및 병합](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_&#x200B;을(를) 참조하십시오.

@@ -39,4 +39,4 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
 
-자세한 내용은 사용 안내서에서 [그룹 역할 템플릿 구매](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)를 참조하십시오.
+자세한 내용은 사용 안내서에서 [그룹 역할 템플릿 구매](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)를 참조하십시오.
