@@ -32,6 +32,6 @@ ht-degree: 5%
 
 계정 또는 개인 여정을 만들 때 분할 및 병합 경로 노드와 이를 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443263/?captions=kor&learn=on&enablevpops)
 
 자세한 내용은 사용 안내서에서 _[경로 분할 및 병합](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_&#x200B;을(를) 참조하십시오.

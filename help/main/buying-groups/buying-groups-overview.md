@@ -32,6 +32,6 @@ ht-degree: 34%
 
 구매 그룹에 대한 모든 정보와 활용 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452942/?captions=kor&learn=on&enablevpops)
 
 자세한 내용은 사용 안내서에서 _[구매 그룹](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_&#x200B;을 참조하세요.
