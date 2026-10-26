@@ -53,4 +53,4 @@ ht-degree: 4%
 * 완결성 점수 설정을 사용하여 각 역할에 필요한 멤버 수를 설정합니다.
 * 상태가 라이브로 변경되고 솔루션 관심사에 사용할 수 있도록 템플릿을 게시합니다.
 
-자세한 내용은 사용 안내서에서 [그룹 역할 템플릿 구매](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)를 참조하십시오.
+자세한 내용은 사용 안내서에서 [그룹 역할 템플릿 구매](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)를 참조하십시오.

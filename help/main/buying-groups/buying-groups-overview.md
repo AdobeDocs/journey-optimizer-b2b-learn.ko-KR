@@ -48,4 +48,4 @@ ht-degree: 1%
 * 구매 그룹 구성원을 검토하고 업데이트합니다. 수동 업데이트는 여정 작업 및 시스템 작업보다 우선합니다.
 * 역할 인사이트를 사용하여 날짜 범위로 필터링된 역할 간 획득 및 참여를 비교할 수 있습니다.
 
-자세한 내용은 사용 안내서에서 _[구매 그룹](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_&#x200B;을 참조하세요.
+자세한 내용은 사용 안내서에서 _[구매 그룹](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_&#x200B;을 참조하세요.

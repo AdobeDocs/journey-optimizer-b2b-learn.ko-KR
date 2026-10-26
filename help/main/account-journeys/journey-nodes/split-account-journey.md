@@ -49,4 +49,4 @@ Adobe [!DNL Journey Optimizer B2B Edition]에서 분할 및 병합 경로 노드
 * 전환 확인 기간, 빈도 및 비활성 필터링을 사용하여 사용자 특성, 계정 사용자 관계 특성, 구매 그룹 멤버십, 사용자 지정 개체 및 이벤트 내역을 사용하여 사용자별로 분할합니다.
 * 자동 닫힌 분할 경로 노드가 어떻게 사람들을 계정 여정으로 되돌리는지 이해합니다.
 
-자세한 내용은 사용 안내서에서 _[경로 분할 및 병합](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_&#x200B;을(를) 참조하십시오.
+자세한 내용은 사용 안내서에서 _[경로 분할 및 병합](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_&#x200B;을(를) 참조하십시오.
