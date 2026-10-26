@@ -35,7 +35,7 @@ ht-degree: 1%
 
 이 튜토리얼은 계정 기반 마케팅을 위해 [!DNL Journey Optimizer B2B Edition]을(를) 사용하고 올바른 관련자를 타겟팅하고 계정을 인증하려는 마케터와 관리자를 위한 것입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452942/?captions=kor&learn=on&enablevpops)
 
 다음을 수행하는 방법을 알아보세요.
 

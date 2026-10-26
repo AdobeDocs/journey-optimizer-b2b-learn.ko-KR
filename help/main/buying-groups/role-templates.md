@@ -40,7 +40,7 @@ ht-degree: 4%
 
 이 자습서는 계정 기반 마케팅을 위해 [!DNL Journey Optimizer B2B Edition]을(를) 사용하고 각 계정의 올바른 이해 당사자를 타겟팅하려는 마케터와 관리자를 위한 것입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453308/?captions=kor&learn=on)
 
 다음을 수행하는 방법을 알아보세요.
 
