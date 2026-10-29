@@ -35,7 +35,7 @@ Adobe [!DNL Journey Optimizer B2B Edition]에서 분할 및 병합 경로 노드
 
 이 자습서는 [!DNL Journey Optimizer B2B Edition]을(를) 사용하여 다양한 세그먼트 및 구매 그룹 구성원에 대한 계정 기반 마케팅 여정을 개인화하는 마케팅 전문가 및 여정 디자이너를 위한 것입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443263/?captions=kor&learn=on&enablevpops)
 
 다음을 수행하는 방법을 알아보세요.
 
