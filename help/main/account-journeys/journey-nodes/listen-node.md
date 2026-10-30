@@ -18,7 +18,7 @@ ht-degree: 1%
 
 이벤트가 발생할 때 여정을 진행하려면 [!DNL Adobe Journey Optimizer B2B Edition]의 [!UICONTROL 이벤트 수신] 노드를 사용하십시오. 여정 및 개인 이벤트를 비교하고, 일치 기준을 정의하고, 시간 초과를 구성하여 계정이 대기하는 시간을 제어합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443241/?captions=kor&quality=12&learn=on)
 
 ## 노드 핵심 사항 수신
 

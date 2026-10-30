@@ -18,7 +18,7 @@ ht-degree: 3%
 
 일치하는 활동이 발생하면 [!DNL Adobe Experience Platform] 경험 이벤트를 사용하여 [!DNL Adobe Journey Optimizer B2B Edition]에서 계정 여정을 진행합니다. 관리자가 이벤트 유형 및 필드를 구성하는 방법과 마케터가 [!UICONTROL 이벤트 수신] 노드에서 이벤트 유형 및 필드를 사용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448690/?captions=kor&quality=12&learn=on)
 
 ## 경험 이벤트 핵심 사항
 

@@ -18,7 +18,7 @@ ht-degree: 1%
 
 [!DNL Adobe Journey Optimizer B2B Edition]의 작업 노드를 사용하여 여정 또는 계정의 사용자에 대한 작업을 정의합니다. 계정 작업과 사용자 작업을 비교하고 각 여정 유형이 지원하는 작업을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443252/?captions=kor&quality=12&learn=on)
 
 ## 작업 노드 기본 사항
 
