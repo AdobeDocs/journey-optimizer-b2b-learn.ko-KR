@@ -1,5 +1,5 @@
 ---
-title: Adobe [!DNL Journey Optimizer B2B Edition]의 구매 그룹 개요
+title: '[!DNL Journey Optimizer B2B Edition]의 구매 그룹'
 description: 역할 템플릿 및 솔루션 관심사에서 준비 및 역할 통찰력에 이르기까지 Adobe [!DNL Journey Optimizer B2B Edition]에서 구매 그룹을 만들고, 관리하고, 평가하는 방법을 알아봅니다.
 keywords: 구매 그룹, Adobe [!DNL Journey Optimizer B2B Edition], 계정 기반 마케팅, B2B 구매 그룹, 역할 템플릿, 솔루션 관심, 계정 대상, 구매 그룹 단계, 구매 그룹 완성도, 역할 통찰력, B2B 마케팅 자동화
 feature: Buying Groups
@@ -24,12 +24,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 85f11f822fd6915c58beec677aef15621c8cc0e6
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '248'
 ht-degree: 1%
 ---
-# Adobe [!DNL Journey Optimizer B2B Edition]의 구매 그룹 개요
+# [!DNL Journey Optimizer B2B Edition]의 구매 그룹
 
 [!DNL Adobe Journey Optimizer B2B Edition]에서 구매 그룹이 B2B 구매 결정을 위해 사람을 구성하는 방법에 대해 알아봅니다. 이 비디오에서는 필요한 구성 요소, 구매 그룹 만들기 작업을 준비하는 방법 및 준비 상태를 평가하는 방법을 안내합니다.
 

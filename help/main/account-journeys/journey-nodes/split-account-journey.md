@@ -1,5 +1,5 @@
 ---
-title: Adobe [!DNL Journey Optimizer B2B Edition]에서 경로 분할 및 병합
+title: 경로 분할 및 병합
 description: Adobe [!DNL Journey Optimizer B2B Edition]에서 경로를 분할하고 병합하여 조건별로 계정이나 사람을 라우팅하고 경로 우선 순위를 설정하고 일치하지 않는 대상을 처리하는 방법을 알아봅니다.
 keywords: 분할 경로, 병합 경로, Adobe [!DNL Journey Optimizer B2B Edition], 계정 여정, 여정 노드, 계정 기반 마케팅, B2B 여정 오케스트레이션, 구매 그룹 준비, 경로 조건, 사람 분할, 이벤트 내역 필터링, 여정 세분화
 feature: Account Journeys
@@ -24,12 +24,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 375a9f528b4df8d65f8ec3d5646381ab615c4305
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 0%
+source-wordcount: '312'
+ht-degree: 3%
 ---
-# Adobe [!DNL Journey Optimizer B2B Edition]에서 경로 분할 및 병합
+# 경로 분할 및 병합
 
 Adobe [!DNL Journey Optimizer B2B Edition]에서 분할 및 병합 경로 노드를 사용하여 조건에 따라 계정 여정을 통해 계정이나 사람을 라우팅하는 방법에 대해 알아봅니다. 이 비디오에서는 계정 및 사용자 분할, 경로 우선순위, 기본 경로 및 병합에 대해 설명합니다.
 
