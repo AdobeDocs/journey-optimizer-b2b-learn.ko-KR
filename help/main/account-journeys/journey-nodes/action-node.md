@@ -30,4 +30,4 @@ ht-degree: 1%
 
 ## 관련 설명서
 
-구성 단계 및 지원되는 계정 및 사용자 작업에 대해서는 [사용 안내서에서 작업 수행](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes){target="_blank"}을 참조하세요.
+구성 단계 및 지원되는 계정 및 사용자 작업에 대해서는 [사용 안내서에서 작업 수행](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes){target="_blank"}을 참조하세요.

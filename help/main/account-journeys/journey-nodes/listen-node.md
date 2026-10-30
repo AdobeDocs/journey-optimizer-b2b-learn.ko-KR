@@ -30,4 +30,4 @@ ht-degree: 1%
 
 ## 관련 설명서
 
-지원되는 이벤트, 구성 단계 및 시간 제한 옵션에 대해서는 [사용 안내서에서 이벤트 수신](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}을 참조하세요.
+지원되는 이벤트, 구성 단계 및 시간 제한 옵션에 대해서는 [사용 안내서에서 이벤트 수신](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}을 참조하세요.

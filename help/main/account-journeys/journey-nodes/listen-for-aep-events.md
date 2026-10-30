@@ -35,5 +35,5 @@ ht-degree: 3%
 
 설정 요구 사항 및 지침은 사용 안내서의 다음 페이지를 참조하십시오.
 
-* [경험 이벤트 및 필드 선택](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
-* [이벤트 듣기](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}
+* [경험 이벤트 및 필드 선택](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
+* [이벤트 듣기](https://experienceleague.adobe.com/ko/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}
